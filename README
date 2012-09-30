@@ -1,1 +1,10 @@
 This is a sample oauth android client
+
+The code verifys a gmail , for more information check
+
+https://developers.google.com/accounts/docs/OAuth2
+http://code.google.com/p/google-gson/
+
+
+
+
